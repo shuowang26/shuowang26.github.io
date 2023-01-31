@@ -6,7 +6,8 @@ table {
   margin-bottom: 1em;
   width: 100%;
   font-family: $global-font-family;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
+  // font-size: $type-size-6;
   border-collapse: collapse;
   border: 1px solid $light-gray;
 
@@ -35,4 +36,8 @@ td {
 
 tr, td, th {
   vertical-align: middle;
+}
+
+table, tr, td, th {
+  border-color: transparent;
 }

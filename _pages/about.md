@@ -1,45 +1,44 @@
 ---
 permalink: /
-title: "Home"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+# Short Bio
+I am a Young Principal Investigator (Associate Professor) at [Digital Medical Research Center](https://miccai.fudan.edu.cn/), School of Basic Medical Sciences, Fudan University. I am also affiliated with [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London as a Honorary Principal Research Fellow.
 
-I am a Principal Investigator (Associate Professor) at [Digital Medical Research Center](https://miccai.fudan.edu.cn/), School of Basic Medical Sciences, Fudan University. I am also a Honorary Principal Research Fellow affiliated with [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London.
+Previously, I worked as a Research Associate at [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London (2019-2021) and [Centre for Mathematical Sciences](https://www.cmih.maths.cam.ac.uk/), University of Cambridge (2018-2019). I received my PhD degree in Radiology from [University of Cambridge](https://www.cam.ac.uk/) (2018) and BSc degree in Theoretic and Applied Mechanics from [Fudan University](https://www.fudan.edu.cn/main.htm) (2014).
 
-I received my PhD degree in Radiology from [University of Cambridge](https://www.cam.ac.uk/) (2018) and BSc degree in Theoretic and Applied Mechanics from [Fudan University](https://www.fudan.edu.cn/main.htm) (2014). I worked as a Research Associate at [Cambridge Mathematics of Information in Healthcare Hub](https://www.cmih.maths.cam.ac.uk/), University of Cambridge (2018-2019) and [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London (2019-2021).
+# Research Interest
+My research lies at the interface between medical image analysis and modelling of biological systems. In particular, I am interested in developing efficient algorithms for real-world clinical applications and large-scale population studies.  
+**Keywords**: Medical Image Analysis, Biomechanics, Healthcare Big Data
 
-My research lies at the interface between quantitative medical image analysis and modelling of biological systems. In particular, I am interested in developing efficient algorithms for large-scale population studies and real-world clinical applications.
-
-News
-=====
+# News
+- Jan 2023 - One paper on transformer-based cardiac MRI reconstruction in collaboration with Yantai University was published [@MedIA](https://www.sciencedirect.com/science/article/pii/S136184152300021X).
 - Dec 2022 - We released [FPPD-13](https://endoboost.miccai.cloud/EndoBoost_FPPD13/) dataset and [preprint](https://arxiv.org/abs/2212.12204) for false positive suppression during computer-aided polyp detection in real-world colonoscopy.
 - Dec 2022 - Our work on automatic PET/CT quality assessment in collaboration with Department of Nuclear Medicine, Zhongshan Hospital was published [@EJNMMI](https://link.springer.com/article/10.1007/s00259-022-06078-z).
 - Dec 2022 - Our work on generative myocardial motion tracking in collaboration with Imperial College London was published [@MedIA](https://www.sciencedirect.com/science/article/pii/S1361841522003103).
-- Nov 2022 - Our work on MorphH for mammogram classification in collaboration with University of Cambridge was published [@MedIA](https://www.sciencedirect.com/science/article/pii/S1361841522002468).
-- Oct 2022 - [CMRxMotion Challenge](http://cmr.miccai.cloud) released final rankings [@MICCAI 2022 STACOM Workshop](https://stacom.github.io/stacom2022/).
+- Nov 2022 - One paper on mammogram classification in collaboration with University of Cambridge was published [@MedIA](https://www.sciencedirect.com/science/article/pii/S1361841522002468).
+- Oct 2022 - [CMRxMotion Challenge](http://cmr.miccai.cloud) released final rankings [@MICCAI'22 STACOM](https://stacom.github.io/stacom2022/).
 - Oct 2022 - Two papers in collaboration with Imperial College London were accepted by MICCAI workshops.
 - Oct 2022 - Experimental work on material properties of thoracic aortic aneurysms in collaboration with University of Cambridge was published [@Journal of Biomechanical Engineering](https://asmedigitalcollection.asme.org/biomechanical/article/144/10/101001/1139387/Association-of-Collagen-Elastin-Glycosaminoglycans).
-- Aug 2022 - Our work on realistic adversarial MR data augmentation in collaboration with Imperial College London was published [@MedIA](https://www.sciencedirect.com/science/article/pii/S1361841522002304).
-- July 2022 - Experimental work on material properties of aortic dissection in collaboration with University of Cambridge and Beijing Institute of Technology was published [@Acta Biomaterialia](https://www.sciencedirect.com/science/article/pii/S1742706122001799).
-- Apr 2022 - [CMRxMotion Challenge](http://cmr.miccai.cloud) launched.
-- Apr 2022 - Our work on suggestive annotation for brain MRI in collaboration with Imperial College London was published [@MedIA](https://www.sciencedirect.com/science/article/pii/S1361841522000263).
-- Feb 2022 - Our work on Bayesian data assimilation for Rt estimation in collaboration with Imperial College London was published [@PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009807).
-- Jan 2022 - Our work on zero-pressure shape estimation of vascular tissues in collaboration with University of Cambridge was published [@Journal of Biomechanics](https://www.sciencedirect.com/science/article/pii/S0021929021006618).
 
 <details markdown=1>
 <summary>More News</summary>
-- Dec 2021 - Our work on patient-specific FSI analysis for bicuspid aortic valve in collaboration with University of Cambridge and Fuwai Hospital was published [@Journal of Biomechanics](https://www.sciencedirect.com/science/article/pii/S0021929021005674).
+- Aug 2022 - One paper on adversarial MR data augmentation in collaboration with Imperial College London was published [@MedIA](https://www.sciencedirect.com/science/article/pii/S1361841522002304).
+- July 2022 - Experimental work on material properties of aortic dissection in collaboration with University of Cambridge and Beijing Institute of Technology was published [@Acta Biomaterialia](https://www.sciencedirect.com/science/article/pii/S1742706122001799).
+- Apr 2022 - [CMRxMotion Challenge](http://cmr.miccai.cloud) launched.
+- Apr 2022 - One paper on suggestive annotation for brain MRI in collaboration with Imperial College London was published [@MedIA](https://www.sciencedirect.com/science/article/pii/S1361841522000263).
+- Feb 2022 - Our work on Bayesian data assimilation for Rt estimation in collaboration with Imperial College London was published [@PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009807).
+- Jan 2022 - Our work on zero-pressure shape estimation of vascular tissues in collaboration with University of Cambridge was published [@Journal of Biomechanics](https://www.sciencedirect.com/science/article/pii/S0021929021006618).
+- Dec 2021 - One paper on patient-specific FSI analysis for bicuspid aortic valve in collaboration with University of Cambridge and Fuwai Hospital was published [@Journal of Biomechanics](https://www.sciencedirect.com/science/article/pii/S0021929021005674).
 
 </details>
 
 
-
-
-<!-- Medical Image Analysis, Biomechanics, Healthcare Big Data -->
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
