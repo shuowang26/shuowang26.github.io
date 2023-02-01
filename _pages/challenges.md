@@ -12,7 +12,7 @@ In collaboration with my colleagues, we have organised the following medical ima
     <td width="40%"><img  src="{{ base_path }}/images/CMRxMotion.gif"></td>
     <td width="60%">
     <p markdown="1">**CMRxMotion: Extreme Cardiac MRI Analysis Challenge under Respiratory Motion**  
-    [[website](http://cmr.miccai.cloud/organizer/)] [[dataset](http://cmr.miccai.cloud/data/)]  
+    [[proceedings](https://link.springer.com/book/10.1007/978-3-031-23443-9)] [[website](http://cmr.miccai.cloud/organizer/)] [[dataset](http://cmr.miccai.cloud/data/)]  
     **Host**: [MICCAI STACOM 2022](https://stacom.github.io/)  
     **Abstract**: The aim of this challenge is to assess the effects of respiratory motion on CMR imaging quality and examine the robustness of segmentation models in face of respiratory motion artifacts.
     </p></td>

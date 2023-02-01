@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Publications
-I have authored or co-authored over 40 research papers in the field of medicine and engineering . Please refer to my [[Google Scholar](https://scholar.google.co.uk/citations?user=mAhTSxcAAAAJ&hl)] for the complete list.
+I have authored or co-authored over 40 research papers in the field of medicine and engineering. Please refer to my [[Google Scholar](https://scholar.google.co.uk/citations?user=mAhTSxcAAAAJ&hl)] for the complete list.
 
 <!-- Selected Publication
 =====
@@ -79,7 +79,7 @@ Xian Yang, <u>Shuo Wang</u>, Yuting Xing, Ling Li, Richard Yi Da Xu, Karl J Fris
 
 2. **QU-BraTS: MICCAI BraTS 2020 Challenge on Quantifying Uncertainty in Brain Tumor Segmentation--Analysis of Ranking Metrics and Benchmarking Results**  
 Journal of Machine Learning for Biomedical Imaging, 2022    
-Raghav Mehta, et al.  
+Raghav Mehta, Angelos Filos, Ujjwal Baid, et al.  
 
 1. **Estimation of the zero-pressure computational start shape of atherosclerotic plaques: Improving the backward displacement method with deformation gradient tensor**  
 Journal of Biomechanics, 2022  
@@ -115,7 +115,7 @@ Atherosclerosis, 2021
 Zhongzhao Teng, <u>Shuo Wang</u>, Aziz Tokgoz, Valentina Taviani, Joseph Bird, Umar Sadat, Yuan Huang, Andrew J Patterson, Nichola Figg, Martin J Graves, Jonathan H Gillard
 
 1. **A General Framework for Revealing Human Mind with Auto-Encoding GANs**  
-Medical Image Analysis, 2021  
+arXiv preprint, 2021  
 Pan Wang, Rui Zhou, <u>Shuo Wang</u>, Ling Li, Wenjia Bai, Jialu Fan, Chunlin Li, Peter Childs, Yike Guo    
 
 ## 2020
@@ -168,10 +168,6 @@ Design Science, 2020
 Pan Wang, <u>Shuo Wang</u>, Danlin Peng, Liuqing Chen, Chao Wu, Zhen Wei, Peter Childs, Yike Guo, Ling Li     
 
 ## 2019
-9. **Automatic Brain Tumour Segmentation and Biophysics-Guided Survival Prediction**  
-MICCAI BraTS, 2019  
-<u>Shuo Wang</u>, Chengliang Dai, Yuanhan Mo, Elsa Angelini, Yike Guo, Wenjia Bai    
-
 8. **Automatic Brain Tumour Segmentation and Biophysics-Guided Survival Prediction**  
 MICCAI BraTS, 2019  
 <u>Shuo Wang</u>, Chengliang Dai, Yuanhan Mo, Elsa Angelini, Yike Guo, Wenjia Bai    
