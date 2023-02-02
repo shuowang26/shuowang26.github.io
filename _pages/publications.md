@@ -22,8 +22,12 @@ I have authored or co-authored over 40 research papers in the field of medicine 
   </tr>
 </table> -->
 
+## Book Chapters
+1. **Statistical Atlases and Computational Models of the Heart: Regular and CMRxMotion Challenge Papers**  
+Oscar Camara, Esther Puyol-Antón, Chen Qin, Maxime Sermesant, Avan Suinesiaputra, <u>Shuo Wang</u>, Alistair Young (Eds.), 2023.   [[DOI](https://doi.org/10.1007/978-3-031-23443-9)]
 
-## 2023
+## Papers
+### 2023
 3. **CHeart: A Conditional Spatio-Temporal Generative Model for Cardiac Anatomy**  
 arXiv preprint, 2023  
 Mengyun Qiao, <u>Shuo Wang</u>, Huaqi Qiu, Antonio de Marvao, Declan P O'Regan, Daniel Rueckert, Wenjia Bai  
@@ -36,7 +40,7 @@ Jun Lyu, Guangyuan Li, Chengyan Wang, Chen Qin, <u>Shuo Wang</u>, Qi Dou, Jing Q
 Medical Image Analysis, 2023  
 Chen Qin, <u>Shuo Wang</u>, Chen Chen, Wenjia Bai, Daniel Rueckert  
 
-## 2022
+### 2022
 13. **EndoBoost: a plug-and-play module for false positive suppression during computer-aided polyp detection in real-world colonoscopy (with dataset)**  
 arXiv preprint, 2022  
 Haoran Wang, Yan Zhu, Wenzheng Qin, Yizhe Zhang, Pinghong Zhou, Quanlin Li, <u>Shuo Wang</u>, Zhijian Song  
@@ -89,7 +93,7 @@ Raghav Mehta, Angelos Filos, Ujjwal Baid, et al.
 Journal of Biomechanics, 2022  
 Yuan Huang, <u>Shuo Wang</u>, Tao Luo, Michael Hong-Fei Du, Chang Sun, Umar Sadat, Carola-Bibiane Schönlieb, Jonathan H Gillard, Jianjun Zhang, Zhongzhao Teng  
 
-## 2021
+### 2021
 8. **Vessel structural stress mediates aortic media degeneration in bicuspid aortopathy: New insights based on patient-specific fluid-structure interaction analysis**  
 Journal of Biomechanics, 2021  
 Fei Li, <u>Shuo Wang</u>, Qi Gao, Xiuyu Chen, Gang Yin, Cuntao Yu, Yuetang Wang, Xu Wang, En Qiao, Zakaria Meddings, Wei Wang, Shihua Zhao, Zhongzhao Teng
@@ -122,7 +126,7 @@ Zhongzhao Teng, <u>Shuo Wang</u>, Aziz Tokgoz, Valentina Taviani, Joseph Bird, U
 arXiv preprint, 2021  
 Pan Wang, Rui Zhou, <u>Shuo Wang</u>, Ling Li, Wenjia Bai, Jialu Fan, Chunlin Li, Peter Childs, Yike Guo    
 
-## 2020
+### 2020
 12. **A solvent-based surface cleaning and passivation technique for suppressing ionic defects in high-mobility perovskite field-effect transistors**  
 Nature Electronics, 2020  
 Xiao-Jian She, Chen Chen, Giorgio Divitini, Baodan Zhao, Yang Li, Junzhan Wang, Jordi Ferrer Orri, Linsong Cui, Weidong Xu, Jun Peng, <u>Shuo Wang</u>, Aditya Sadhanala, Henning Sirringhaus
@@ -171,7 +175,7 @@ Yuanhan Mo, <u>Shuo Wang</u>, Chengliang Dai, Rui Zhou, Zhongzhao Teng, Wenjia B
 Design Science, 2020  
 Pan Wang, <u>Shuo Wang</u>, Danlin Peng, Liuqing Chen, Chao Wu, Zhen Wei, Peter Childs, Yike Guo, Ling Li     
 
-## 2019
+### 2019
 8. **Automatic Brain Tumour Segmentation and Biophysics-Guided Survival Prediction**  
 MICCAI BraTS, 2019  
 <u>Shuo Wang</u>, Chengliang Dai, Yuanhan Mo, Elsa Angelini, Yike Guo, Wenjia Bai    
@@ -204,7 +208,7 @@ Chao Li, <u>Shuo Wang</u>, Jiun-Lin Yan, Turid Torheim, Natalie Boonzaier, Rohit
 27th ISMRM, 2019  
 Hao Li, <u>Shuo Wang</u>, Andrew Nicholas Priest, Martin John Graves, David John Lomas  
 
-## 2018
+### 2018
 2. **Development of a novel uncovered stent system for the management of complex aortic aneurysms**  
 PhD Thesis, 2018  
 Shuo Wang
@@ -213,12 +217,12 @@ Shuo Wang
 26th ISMRM, 2018  
 Hao Li, <u>Shuo Wang</u>, Andrew Nicholas Priest, Martin John Graves, David John Lomas  
 
-## 2017
+### 2017
 1. **Influence of overlapping pattern of multiple overlapping uncovered stents on the local mechanical environment: a patient-specific parameter study**  
 Journal of Biomechanics, 2017  
 <u>Shuo Wang</u>, Yongxue Zhang, Jiaxuan Feng, Yuan Huang, Aziz Tokgoz, Umar Sadat, Jonathan H Gillard, Qingsheng Lu, Zhongzhao Teng  
 
-## 2015
+### 2015
 1. **The influence of constitutive law choice used to characterise atherosclerotic tissue material properties on computing stress values in human carotid plaques**  
 Journal of Biomechanics, 2015  
 Zhongzhao Teng, Jianmin Yuan, Jiaxuan Feng, Yongxue Zhang, Adam J Brown, <u>Shuo Wang</u>, Qingsheng Lu, Jonathan H Gillard  
