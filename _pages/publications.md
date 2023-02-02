@@ -24,6 +24,10 @@ I have authored or co-authored over 40 research papers in the field of medicine 
 
 
 ## 2023
+3. **CHeart: A Conditional Spatio-Temporal Generative Model for Cardiac Anatomy**  
+arXiv preprint, 2023  
+Mengyun Qiao, <u>Shuo Wang</u>, Huaqi Qiu, Antonio de Marvao, Declan P O'Regan, Daniel Rueckert, Wenjia Bai  
+
 2. **Region-focused multi-view transformer-based generative adversarial network for cardiac cine MRI reconstruction**  
 Medical Image Analysis, 2023  
 Jun Lyu, Guangyuan Li, Chengyan Wang, Chen Qin, <u>Shuo Wang</u>, Qi Dou, Jing Qin  
@@ -202,7 +206,7 @@ Hao Li, <u>Shuo Wang</u>, Andrew Nicholas Priest, Martin John Graves, David John
 
 ## 2018
 2. **Development of a novel uncovered stent system for the management of complex aortic aneurysms**  
-PhD Thesis, 2018
+PhD Thesis, 2018  
 Shuo Wang
 
 1. **An optimised subtraction approach for subtractive NCE-MRA techniques based on principal component analysis**  
@@ -218,21 +222,3 @@ Journal of Biomechanics, 2017
 1. **The influence of constitutive law choice used to characterise atherosclerotic tissue material properties on computing stress values in human carotid plaques**  
 Journal of Biomechanics, 2015  
 Zhongzhao Teng, Jianmin Yuan, Jiaxuan Feng, Yongxue Zhang, Adam J Brown, <u>Shuo Wang</u>, Qingsheng Lu, Jonathan H Gillard  
-
-<!--
-<body>
-<img src="{{ base_path }}/images/profile.png" alt="西安科技大学高新学院" align="left" hspace="20" height="300"/>
-<h2>Paper title </h2>
-<p>Authors</p>
-</body> -->
-
-<!--
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
-
-<!-- {% include base_path %} -->
-
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
