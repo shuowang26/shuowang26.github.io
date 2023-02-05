@@ -211,7 +211,7 @@ Hao Li, <u>Shuo Wang</u>, Andrew Nicholas Priest, Martin John Graves, David John
 ### 2018
 2. **Development of a novel uncovered stent system for the management of complex aortic aneurysms**  
 PhD Thesis, 2018  
-Shuo Wang
+<u>Shuo Wang</u>  
 
 1. **An optimised subtraction approach for subtractive NCE-MRA techniques based on principal component analysis**  
 26th ISMRM, 2018  
