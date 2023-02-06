@@ -10,7 +10,7 @@ redirect_from:
 # Short Bio
 I am a Young Principal Investigator (Associate Professor) at [Digital Medical Research Center](https://miccai.fudan.edu.cn/), School of Basic Medical Sciences, Fudan University. I am also affiliated with [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London as a Honorary Senior Research Fellow.
 
-Previously, I worked as a Research Associate at [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London (2019-2021) and [Centre for Mathematical Sciences](https://www.cmih.maths.cam.ac.uk/), University of Cambridge (2018-2019). I received my PhD degree in Radiology from [University of Cambridge](https://www.cam.ac.uk/) (2018) and BSc degree in Theoretic and Applied Mechanics from [Fudan University](https://www.fudan.edu.cn/main.htm) (2014).
+Previously, I worked as a Research Associate at [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London (2019-2021) and [Centre for Mathematical Sciences](https://www.cmih.maths.cam.ac.uk/), University of Cambridge (2018-2019). I received my PhD degree in Radiology from [University of Cambridge](https://www.cam.ac.uk/) (2018) and BSc degree in Theoretical and Applied Mechanics from [Fudan University](https://www.fudan.edu.cn/main.htm) (2014).
 
 # Research Interest
 My research lies at the interface between medical image analysis and modelling of biological systems. In particular, I am interested in developing efficient algorithms for real-world clinical applications and large-scale population studies.  
