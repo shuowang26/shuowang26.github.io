@@ -17,6 +17,7 @@ My research lies at the interface between medical image analysis and modelling o
 **Keywords**: Medical Image Analysis, Biomechanics, Healthcare Big Data
 
 # News
+- March 2023 - One paper on smartphone APP for better bowel preparation for colonoscopy in collaboration with Endoscopy Center, Zhongshan Hospital published [@npj Digital Medicine](https://www.nature.com/articles/s41746-023-00786-y).
 - Jan 2023 - One paper on transformer-based cardiac MRI reconstruction in collaboration with Yantai University was published [@MedIA](https://www.sciencedirect.com/science/article/pii/S136184152300021X).
 - Dec 2022 - We released [FPPD-13](https://endoboost.miccai.cloud/EndoBoost_FPPD13/) dataset and [preprint](https://arxiv.org/abs/2212.12204) for false positive suppression during computer-aided polyp detection in real-world colonoscopy.
 - Dec 2022 - Our work on automatic PET/CT quality assessment in collaboration with Department of Nuclear Medicine, Zhongshan Hospital was published [@EJNMMI](https://link.springer.com/article/10.1007/s00259-022-06078-z).
