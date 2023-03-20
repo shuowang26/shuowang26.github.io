@@ -30,7 +30,7 @@ Oscar Camara, Esther Puyol-Antón, Chen Qin, Maxime Sermesant, Avan Suinesiaputr
 ### 2023
 4. **Improving bowel preparation for colonoscopy with a smartphone application driven by artificial intelligence**  
 npj Digital Medicine, 2023  
-Yan Zhu, Dan-Feng Zhang, Hui-Li Wu, Pei-Yao Fu, Li Feng, Kun Zhuang, Zi-Han Geng, Kun-Kun Li, Xiao-Hong Zhang, Bo-Qun Zhu, Wen-Zheng Qin, Sheng-Li Lin, Zhen Zhang, Tian-Yin Chen, Yuan Huang, Xiao-Yue Xu, Jing-Zheng Liu, <u>Shuo Wang</u>, Wei Zhang, Quan-Lin Li, Ping-Hong Zhou
+Yan Zhu, Danfeng Zhang, Huili Wu, Peiyao Fu, Li Feng, Kun Zhuang, Zihan Geng, Kunkun Li, Xiaohong Zhang, Boqun Zhu, Wenzheng Qin, Shengli Lin, Zhen Zhang, Tianyin Chen, Yuan Huang, Xiaoyue Xu, Jingzheng Liu, <u>Shuo Wang</u>, Wei Zhang, Quanlin Li, Pinghong Zhou
 
 3. **CHeart: A Conditional Spatio-Temporal Generative Model for Cardiac Anatomy**  
 arXiv preprint, 2023  
