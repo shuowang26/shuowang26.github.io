@@ -17,13 +17,16 @@ In collaboration with my colleagues, we have organised the following medical ima
       </p></td>
 	</tr>
 	<tr>
-	    <td width="40%" align="center"><p markdown="1">**Coming soon!**</p></td>
+			<td width="40%" align="center"><img  src="{{ base_path }}/images/CMRxRecon.jpeg" style="width: 50%"></td>
 	    <td width="60%"><p markdown="1">**CMRxRecon: Cardiac MRI Reconstruction Challenge (2023)**<br>
+			[[website](https://cmrxrecon.github.io/)]<br>
+			**Host**: [MICCAI STACOM 2023](https://stacom.github.io/)<br>
       This challenge aims to provide a benchmark platform for the existing cine CMR reconstruction approaches to promote advances in this area of research.
       </p></td>
 	</tr>
 </table>
 
+<br>
 # Public datasets
 In collaboration with our clinical collaborators, we have released the following public datasets.  
 <table>
