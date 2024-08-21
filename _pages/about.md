@@ -14,9 +14,30 @@ Previously, I worked as a Research Associate at [Data Science Institute](https:/
 
 # Research Interest
 My research lies at the interface between medical image analysis and modelling of biological systems. In particular, I am interested in developing efficient algorithms for real-world clinical applications and large-scale population studies.  
-**Keywords**: Medical Image Analysis, Biomechanics, Healthcare Big Data
+
+**Keywords**: Medical Image Analysis, Biomechanics, AI for Multi-Modal Medicine
 
 # News
+- Aug 2024 - One paper on renal tumor shape irregularity in collaboration with Department of Radiology, Zhongshan Hospital was published [@eClinicalMedicine](https://doi.org/10.1016/j.eclinm.2024.102775).
+- July 2024 - Three papers were accepted by [@MICCAI'24](https://arxiv.org/abs/2407.11401).
+- July 2024 - One paper on data-efficient medical image segmentation in collaboration with Imperial College London was published [@MedIA](https://www.sciencedirect.com/science/article/pii/S136184152400121X).
+- July 2024 - Invited as Associate Editor for [@BioMedical Engineering OnLine](https://biomedical-engineering-online.biomedcentral.com/).
+- June 2024 - We released [CMRxRecon24](https://cmrxrecon.github.io/2024/Home.html) dataset and [preprint](https://arxiv.org/abs/2406.19043) boosting universal machine learning for accelerated cardiac MRI.
+- June 2024 - Our CMRxRecon23 dataset paper was published [@Scientific Data](https://www.nature.com/articles/s41597-024-03525-4).
+- May 2024 - Our work on small renal mass assessment in collaboration with Department of Radiology, Zhongshan Hospital was published [@Radiology](https://pubs.rsna.org/doi/full/10.1148/radiol.232178).
+- May 2024 - One paper on cardiac MRI super-resolution in collaboration with Yantai University was published [@MedIA](https://www.sciencedirect.com/science/article/abs/pii/S1361841524000677).
+- Apr 2024 - Our work on weakly supervised semantic segmentation SeCo was accepted by [@CVPR'24](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Separate_and_Conquer_Decoupling_Co-occurrence_via_Decomposition_and_Representation_for_CVPR_2024_paper.html).
+- Apr 2024 - CMRxRecon23 challenge paper [prepreint](https://arxiv.org/abs/2404.01082) was released.
+<details markdown=1>
+<summary>More News</summary>
+- Feb 2024 - One paper on test-time medical image segmentation in collaboration with Nanjing University of Science and Technology was published [@MedIA](https://www.sciencedirect.com/science/article/abs/pii/S1361841523003298).
+- Jan 2024 - Our dataset paper on newborn ear shape in collaboration with Fudan Eye and ENT Hospital was published [@Scientific Data](https://www.nature.com/articles/s41597-023-02834-4).
+- Jan 2024 - One paper on generative cardiac modelling in collaboration with Imperial College London was published [@IEEE TMI](https://ieeexplore.ieee.org/abstract/document/10315018).
+- Oct 2023 - One paper on computational pathlogy was accepted by [@ICCV'23](https://openaccess.thecvf.com/content/ICCV2023/html/Qu_Boosting_Whole_Slide_Image_Classification_from_the_Perspectives_of_Distribution_ICCV_2023_paper.html).
+- Oct 2023 - Two papers in collaboration with Nanjing University of Science and Technology was accepted by MICCAI workshops.
+- Sept 2023 - Our work on anatomical prior-informed MAE was published [@Frontiers in Medicine](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1211800/full).
+- Sept 2023 - We released [CMRxRecon23](https://cmrxrecon.github.io/) dataset and [preprint](https://arxiv.org/abs/2309.10836) for accelerated cardiac MRI.
+- May 2023 - [CMRxRecon23 Challenge](https://cmrxrecon.github.io/) launched.
 - Mar 2023 - One paper on smartphone app for better bowel preparation before colonoscopy in collaboration with Endoscopy Center, Zhongshan Hospital published [@npj Digital Medicine](https://www.nature.com/articles/s41746-023-00786-y).
 - Jan 2023 - One paper on transformer-based cardiac MRI reconstruction in collaboration with Yantai University was published [@MedIA](https://www.sciencedirect.com/science/article/pii/S136184152300021X).
 - Dec 2022 - We released [FPPD-13](https://endoboost.miccai.cloud/EndoBoost_FPPD13/) dataset and [preprint](https://arxiv.org/abs/2212.12204) for false positive suppression during computer-aided polyp detection in real-world colonoscopy.
@@ -26,9 +47,6 @@ My research lies at the interface between medical image analysis and modelling o
 - Oct 2022 - [CMRxMotion Challenge](http://cmr.miccai.cloud) released final rankings [@MICCAI'22 STACOM](https://stacom.github.io/stacom2022/).
 - Oct 2022 - Two papers in collaboration with Imperial College London were accepted by MICCAI workshops.
 - Oct 2022 - Experimental work on material properties of thoracic aortic aneurysms in collaboration with University of Cambridge was published [@Journal of Biomechanical Engineering](https://asmedigitalcollection.asme.org/biomechanical/article/144/10/101001/1139387/Association-of-Collagen-Elastin-Glycosaminoglycans).
-
-<details markdown=1>
-<summary>More News</summary>
 - Aug 2022 - One paper on adversarial MR data augmentation in collaboration with Imperial College London was published [@MedIA](https://www.sciencedirect.com/science/article/pii/S1361841522002304).
 - July 2022 - Experimental work on material properties of aortic dissection in collaboration with University of Cambridge and Beijing Institute of Technology was published [@Acta Biomaterialia](https://www.sciencedirect.com/science/article/pii/S1742706122001799).
 - Apr 2022 - [CMRxMotion Challenge](http://cmr.miccai.cloud) launched.
