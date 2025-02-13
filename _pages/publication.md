@@ -23,7 +23,7 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
       </p></td>
 	</tr>
   <tr>
-	    <td width="40%"><img  src="{{ base_path }}/images/papers/2021-MICCAI-HeartSR.png"></td>
+	    <td width="40%"><img  src="{{ base_path }}/images/papers/2021-MICCAI-heartSR.png"></td>
 	    <td width="60%"><p markdown="1">**Joint Motion Correction and Super Resolution for Cardiac Segmentation via Latent Optimisation**<br>
       <u>Shuo Wang</u>, Chen Qin, Nicolo Savioli, Chen Chen, Declan O'Regan, Stuart Cook, Yike Guo, Daniel Rueckert, Wenjia Bai <br>
       *MICCAI, 2021* <br>
@@ -32,7 +32,7 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
       </p></td>
 	</tr>
   <tr>
-	    <td width="40%"><img  src="{{ base_path }}/images/papers/2020-MICCAI-HeartQC.png"></td>
+	    <td width="40%"><img  src="{{ base_path }}/images/papers/2020-MICCAI-heartQC.png"></td>
 	    <td width="60%"><p markdown="1">**Deep Generative Model-Based Quality Control for Cardiac MRI Segmentation**<br>
       <u>Shuo Wang</u>, Giacomo Tarroni, Chen Qin, Yuanhan Mo, Chengliang Dai, Chen Chen, Ben Glocker, Yike Guo, Daniel Rueckert, Wenjia Bai <br>
       *MICCAI, 2020* <br>
@@ -103,7 +103,7 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
       </p></td>
 	</tr>
   <tr>
-	    <td width="40%"><img  src="{{ base_path }}/images/papers/2024-MICCAI-EndoFinder.png"></td>
+	    <td width="40%"><img  src="{{ base_path }}/images/papers/2024-MICCAI-Endofinder.png"></td>
 	    <td width="60%"><p markdown="1">**EndoFinder: Online Image Retrieval for Explainable Colorectal Polyp Diagnosis**<br>
       Ruijie Yang, Yan Zhu, Peiyao Fu, Yizhe Zhang, Zhihua Wang, Quanlin Li, Pinghong Zhou, Xian Yang, <u>Shuo Wang</u> <br>
       *MICCAI, 2024* <br>
