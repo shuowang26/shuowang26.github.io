@@ -12,13 +12,13 @@ I am a Young Principal Investigator (Associate Professor) at [Digital Medical Re
 
 Previously, I worked as a Research Associate at [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London (2019-2021) and [Centre for Mathematical Sciences](https://www.cmih.maths.cam.ac.uk/), University of Cambridge (2018-2019). I received my PhD in Radiology from [University of Cambridge](https://www.cam.ac.uk/) (2018) and BSc in Theoretical and Applied Mechanics from [Fudan University](https://www.fudan.edu.cn/main.htm) (2014).
 
-# Research Interest
-My research focuses on the intersection of healthcare big data analysis and mechanistic modeling of biological systems. In particular, I am interested in developing efficient algorithms for real-world clinical applications and large-scale population studies.  
+# Research Interests
+We focuses on the intersection of healthcare big data and mechanistic modeling of biological systems. In particular, I am interested in developing efficient algorithms for real-world clinical applications and large-scale population studies.
 
 **Keywords**: AI for Multi-Modal Medicine (AIM³), Medical Image Analysis, Biomechanics
 
 # News
-- Feb 2025 - Our work on multi-phase CT images analysis of renal massess was published [@Nature Communications](https://www.nature.com/articles/s41597-025-04535-6).
+- Feb 2025 - Our work on multi-phase CT images analysis of renal massess was published [@Nature Communications](https://www.nature.com/articles/s41467-025-56784-z).
 - Feb 2025 - Our work on AI-assisted detection of newborn auricular deformities in collaboration with Fudan Eye and ENT Hospital was published [@eClinicalMedicine]( ).
 - Feb 2025 - Our work on eliminating the second CT scan of dual-tracer PET/CT in collaboration with Department of Nuclear Medicine, Zhongshan Hospital was published [@EJNMMI](https://link.springer.com/article/10.1007/s00259-025-07113-5).
 - Feb 2025 - Our Eye-tracking dataset of endoscopist-AI teaming was published [@Scientific Data](https://www.nature.com/articles/s41597-025-04535-6).

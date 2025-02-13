@@ -20,8 +20,3 @@ My recent research focuses on developing AI models that effectively integrate an
 * **EndoGPT**: Next-Generation Endoscopic AI Agent
 
 * **HoLoEAR**: Holographic Reconstruction of Ear Structure and Function
-
-
-## Publication
-
-I have authored or co-authored over 60 research papers in the field of medicine and engineering. Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=mAhTSxcAAAAJ&view_op=list_works&sortby=pubdate) for the complete list.

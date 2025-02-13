@@ -8,14 +8,17 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Resource"
-    url: /resources/
+  - title: "Publication"
+    url: /publication/
 
   - title: "Team"
     url: /team/
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Resource"
+    url: /resources/
 
   - title: "Vacancies"
     url: /vacancies/
