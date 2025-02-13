@@ -22,3 +22,6 @@ main:
 
   - title: "Vacancies"
     url: /vacancies/
+
+  - title: "中文"
+    url: /cn/

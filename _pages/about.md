@@ -13,7 +13,7 @@ I am a Young Principal Investigator (Associate Professor) at [Digital Medical Re
 Previously, I worked as a Research Associate at [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London (2019-2021) and [Centre for Mathematical Sciences](https://www.cmih.maths.cam.ac.uk/), University of Cambridge (2018-2019). I received my PhD in Radiology from [University of Cambridge](https://www.cam.ac.uk/) (2018) and BSc in Theoretical and Applied Mechanics from [Fudan University](https://www.fudan.edu.cn/main.htm) (2014).
 
 # Research Interests
-We focuses on the intersection of healthcare big data and mechanistic modeling of biological systems. In particular, I am interested in developing efficient algorithms for real-world clinical applications and large-scale population studies.
+My research focuses on the intersection of healthcare big data and mechanistic modeling of biological systems. In particular, I am interested in developing efficient algorithms for real-world clinical applications and large-scale population digital twins. A core focus of my work is translating cutting-edge AI methodologies into practical tools that advance our understanding of human physiology and ultimately, improve patient care.
 
 **Keywords**: AI for Multi-Modal Medicine (AIM³), Medical Image Analysis, Biomechanics
 
@@ -25,7 +25,7 @@ We focuses on the intersection of healthcare big data and mechanistic modeling o
 - Feb 2025 - The CMRxRecon2023 summary paper was published [@MedIA](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000337).
 - Jan 2025 - Invited to be an Area Chair [@MICCAI'25](https://conferences.miccai.org/2025/en/default.asp).
 - Jan 2025 - The CMRxRecon2024 dataset paper was published [@Radiology: Artificial Intelligence](https://pubs.rsna.org/doi/full/10.1148/ryai.240443).
-- Jan 2025 - Our joint innovation center focused on AI for Future Medicine (AI4FM) launched at the HKUST Shanghai Center.
+- Jan 2025 - Our joint innovation center focused on AI for Future Medicine (AI4FM) launched at the [HKUST Shanghai Center](https://hkust.edu.hk/news/institutional-advancement/opening-hkust-shanghai-center-xuhui-district).
 
 <details markdown=1>
 <summary>More News 2024</summary>

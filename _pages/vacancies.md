@@ -7,6 +7,12 @@ author_profile: true
 
 We're always looking for talented and passionate individuals to join our research group. We are well-equipped with substantial **AI computing resources** and access to **unique datasets**, providing an ideal environment for cutting-edge research. Here are some current opportunities:
 
+### Postdoctoral Positions (Fudan University)
+
+We are seeking talented Postdoctoral Fellows to contribute to our exciting research program focused on multi-modal foundation models for specific diseases.  Working in collaboration with [affiliated hospitals](https://shmc.fudan.edu.cn/eng/2094/list.htm), you'll have access to unique datasets and state-of-the-art resources. We offer competitive salaries, a supportive research environment, and close mentorship.  Please contact me with your CV to learn more.
+
+---
+
 ### PhD Positions (Fudan University)
 
 We typically have 1-2 PhD (Biomedical Engineering) openings annually within the [Digital Medical Research Center](https://miccai.fudan.edu.cn/main.htm), School of Basic Medical Sciences. If you are interested in pursuing your PhD with us in this dynamic environment, please email your CV and a concise description of your proposed research plan.
@@ -29,10 +35,10 @@ I actively supervise students participating in the FDUROP, including the Junzhen
 
 **Bachelor's Thesis Projects**
 
-I supervise 2-3 undergraduate thesis projects each year.  If you are interested in working with me on your thesis, please email me to discuss available projects.  Exceptional students from other universities are also welcome to apply.
+I supervise 2-3 undergraduate thesis projects each year. If you are interested in working with me on your thesis, please email me to discuss available projects. Exceptional students outside Fudan are also welcome to apply.
 
 ---
 
 ### Visiting Student Positions
 
-Subject to lab space availability, we welcome applications from outstanding students with interdisciplinary backgrounds. We frequently offer short-term (1-3 month) research internships especially during the **summer and winter holidays**.  Visiting students will have the opportunity to work with our large datasets and utilize our powerful AI infrastructure. Please contact me if you are interested in a visiting student position.
+Subject to lab space availability, we welcome applications from outstanding students with interdisciplinary backgrounds. We frequently offer short-term (1-3 month) research internships especially during the **summer and winter holidays**.  Visiting students will have the opportunity to work with our large datasets and utilise our powerful AI infrastructure. Please contact me if you are interested in a visiting student position.

@@ -9,9 +9,10 @@ I have authored or co-authored over 80 research papers in the field of medicine 
 
 Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=mAhTSxcAAAAJ&view_op=list_works&sortby=pubdate) for the complete list.
 
-## Selected Work
+# Selected Work
 
-### Cardiovascular
+<details open markdown=1>
+<summary><span style="font-weight: bold; font-size: 1.2em;">&nbsp;Cardiovascular </span></summary>
 <table>
 	<tr>
 	    <td width="40%"><img  src="{{ base_path }}/images/papers/2023-MIA-Gen.png"></td>
@@ -59,8 +60,12 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
       </p></td>
   </tr>
 </table>
+</details>
+
 ---
-### Renal
+
+<details open markdown=1>
+<summary><span style="font-weight: bold; font-size: 1.2em;">&nbsp;Renal Cancer </span></summary>
 <table>
 	<tr>
 	    <td width="40%"><img  src="{{ base_path }}/images/papers/2025-NC-renal.png"></td>
@@ -81,8 +86,12 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
       </p></td>
 	</tr>
 </table>
+</details>
+
 ---
-### Endoscopy
+
+<details open markdown=1>
+<summary><span style="font-weight: bold; font-size: 1.2em;">&nbsp;Endoscopy </span></summary>
 <table>
   <tr>
       <td width="40%"><img  src="{{ base_path }}/images/papers/2023-EndoKED.png"></td>
@@ -112,8 +121,12 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
       </p></td>
 	</tr>
 </table>
+</details>
+
 ---
-### Ear
+
+<details open markdown=1>
+<summary><span style="font-weight: bold; font-size: 1.2em;">&nbsp;Ear </span></summary>
 <table>
 	<tr>
 	    <td width="40%"><img  src="{{ base_path }}/images/dataset-BabyEar4k.png"></td>
@@ -125,8 +138,12 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
       </p></td>
 	</tr>
 </table>
+</details>
+
 ---
-### Miscellaneous
+
+<details open markdown=1>
+<summary><span style="font-weight: bold; font-size: 1.2em;">&nbsp;Miscellaneous </span></summary>
 <table>
 	<tr>
 	    <td width="40%"><img  src="{{ base_path }}/images/papers/2024-IF-review.jpg"></td>
@@ -147,3 +164,4 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
       </p></td>
   </tr>
 </table>
+</details>
