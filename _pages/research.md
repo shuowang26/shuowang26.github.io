@@ -18,5 +18,3 @@ My recent research focuses on developing AI models that effectively integrate an
 * **RenalGPT**: Precise Diagnosis and Treatment of Renal Cancer
 
 * **EndoGPT**: Next-Generation Endoscopic AI Agent
-
-* **HoLoEAR**: Holographic Reconstruction of Ear Structure and Function

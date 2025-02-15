@@ -128,15 +128,6 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
 <details open markdown=1>
 <summary><span style="font-weight: bold; font-size: 1.2em;">&nbsp;Ear </span></summary>
 <table>
-	<tr>
-	    <td width="40%"><img  src="{{ base_path }}/images/dataset-BabyEar4k.png"></td>
-	    <td width="60%"><p markdown="1">**A publicly available newborn ear shape dataset for medical diagnosis of auricular deformities**<br>
-      Liu-Jie Ren, Fei Luo, Zhi-Wei Yang, Li-Li Chen, Xin-Yue Wang, Chen-Long Li, You-Zhou Xie, Ji-Mei Wang, Tian-Yu Zhang, <u>Shuo Wang</u>, Yao-Yao Fu <br>
-      *Scientific Data, 2024* <br>
-      [[paper](https://www.nature.com/articles/s41467-025-56784-z)] [[code](https://github.com/shuowang26/renal-mass-ai)] <br>
-      <br>
-      </p></td>
-	</tr>
 </table>
 </details>
 
@@ -151,6 +142,15 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
       <u>Shuo Wang</u>, Meng Liu, Yan Li, Xinyu Zhang, Mengting Sun, Zian Wang, Ruokun Li, Qirong Li, Qing Li, Yili He, Xumei Hu, Longyu Sun, Fuhua Yan, Mengyao Yu, Weiping Ding, Chengyan Wang <br>
       *Information Fusion, 2024* <br>
       [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524005165)] <br>
+      <br>
+      </p></td>
+	</tr>
+	<tr>
+	    <td width="40%"><img  src="{{ base_path }}/images/dataset-BabyEar4k.png"></td>
+	    <td width="60%"><p markdown="1">**A publicly available newborn ear shape dataset for medical diagnosis of auricular deformities**<br>
+      Liu-Jie Ren, Fei Luo, Zhi-Wei Yang, Li-Li Chen, Xin-Yue Wang, Chen-Long Li, You-Zhou Xie, Ji-Mei Wang, Tian-Yu Zhang, <u>Shuo Wang</u>, Yao-Yao Fu <br>
+      *Scientific Data, 2024* <br>
+      [[paper](https://www.nature.com/articles/s41467-025-56784-z)] [[code](https://github.com/shuowang26/renal-mass-ai)] <br>
       <br>
       </p></td>
 	</tr>

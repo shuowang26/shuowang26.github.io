@@ -19,7 +19,7 @@ My research focuses on the intersection of healthcare big data and mechanistic m
 
 # News
 - Feb 2025 - Our work on multi-phase CT images analysis of renal massess was published [@Nature Communications](https://www.nature.com/articles/s41467-025-56784-z).
-- Feb 2025 - Our work on AI-assisted detection of newborn auricular deformities in collaboration with Fudan Eye and ENT Hospital was published [@eClinicalMedicine]( ).
+- Feb 2025 - Our work on AI-assisted detection of newborn auricular deformities in collaboration with Fudan Eye and ENT Hospital was published [@eClinicalMedicine](https://doi.org/10.1016/j.eclinm.2025.103124).
 - Feb 2025 - Our work on eliminating the second CT scan of dual-tracer PET/CT in collaboration with Department of Nuclear Medicine, Zhongshan Hospital was published [@EJNMMI](https://link.springer.com/article/10.1007/s00259-025-07113-5).
 - Feb 2025 - Our Eye-tracking dataset of endoscopist-AI teaming was published [@Scientific Data](https://www.nature.com/articles/s41597-025-04535-6).
 - Feb 2025 - The CMRxRecon2023 summary paper was published [@MedIA](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000337).
