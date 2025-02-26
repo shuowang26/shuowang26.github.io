@@ -37,7 +37,7 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
 	    <td width="60%"><p markdown="1">**Deep Generative Model-Based Quality Control for Cardiac MRI Segmentation**<br>
       <u>Shuo Wang</u>, Giacomo Tarroni, Chen Qin, Yuanhan Mo, Chengliang Dai, Chen Chen, Ben Glocker, Yike Guo, Daniel Rueckert, Wenjia Bai <br>
       *MICCAI, 2020* <br>
-      [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_9)] <br>
+      [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_9)] [[code](https://github.com/shuowang26/HeartQC)] <br>
       <br>
       </p></td>
 	</tr>
