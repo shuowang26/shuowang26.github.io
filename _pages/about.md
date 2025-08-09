@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 # Shuo Wang （王烁）
-I am a Young Principal Investigator (Associate Professor) at [Digital Medical Research Center](https://miccai.fudan.edu.cn/), School of Basic Medical Sciences, Fudan University. I am also affiliated with [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London as a Honorary Senior Research Fellow.
+I am a Young Principal Investigator (Associate Professor) at the [Digital Medical Research Center](https://miccai.fudan.edu.cn/), School of Basic Medical Sciences, Fudan University. I am also affiliated with the [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London as an Honorary Senior Research Fellow.
 
-Previously, I worked as a Research Associate at [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London (2019-2021) and [Centre for Mathematical Sciences](https://www.cmih.maths.cam.ac.uk/), University of Cambridge (2018-2019). I received my PhD in Radiology from [University of Cambridge](https://www.cam.ac.uk/) (2018) and BSc in Theoretical and Applied Mechanics from [Fudan University](https://www.fudan.edu.cn/main.htm) (2014).
+Previously, I worked as a Research Associate at the [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London (2019-2021) and the [Centre for Mathematical Sciences](https://www.cmih.maths.cam.ac.uk/), University of Cambridge (2018-2019). I received my PhD in Radiology from [University of Cambridge](https://www.cam.ac.uk/) (2018) and BSc in Theoretical and Applied Mechanics from [Fudan University](https://www.fudan.edu.cn/main.htm) (2014).
 
 # Research Interests
 My research focuses on the intersection of healthcare big data and mechanistic modeling of biological systems. In particular, I am interested in developing efficient algorithms for real-world clinical applications and large-scale population digital twins. A core focus of my work is translating cutting-edge AI methodologies into practical tools that advance our understanding of human physiology and ultimately, improve patient care.
@@ -18,20 +18,34 @@ My research focuses on the intersection of healthcare big data and mechanistic m
 **Keywords**: AI for Multi-Modal Medicine (AIM³), Medical Image Analysis, Biomechanics
 
 # News
+ - Aug 2025 – Our EndoKED work was accepted [@Nature Biomedical Engineering](https://arxiv.org/abs/2310.11173).
+ - July 2025 – Our work on composite prompt-based polyp image generation was published [@IEEE TMI](https://ieeexplore.ieee.org/document/11080481).
+ - July 2025 – A paper in collaboration with Zhongshan Hospital on AI-based ECG was published [@EHJ](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf448/8203433).
+ - July 2025 – A paper in collaboration with Zhejiang University on epicardial patches was published [@Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202501663).
+ - May 2025 – A paper in collaboration with Imperial College London on generative cardiac modeling was published [@Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01035-5).
+ - May 2025 – Three papers were accepted to [@MICCAI'25], including one early acceptance.
+ - May 2025 – We are organizing a special issue on digital twin heart modeling [@医用生物力学](http://www.medbiomechanics.com/yyswlx/news/view/20250527163431001).
+ - April 2025 – We released a multi-modal agent for gastrointestinal endoscopy [@上海消化内镜学术大会](https://mp.weixin.qq.com/s/tlvoKUGbJy0prManG3J-xw).
+ - April 2025 – The 2nd Fudan Symposium on Cardiovascular Biomechanics and Medical Imaging (Cardiac Foundation Model Development Forum) was successfully held at the [HKUST Shanghai Center].
+ - April 2025 – Our work on deep learning-based estimation of myocardial material parameters was published [@Bioengineering](https://www.mdpi.com/2306-5354/12/4/433).
+ - March 2025 - Our review paper on mutli-modal imaging and genomics was published [@Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253524005165).
+ - Feb 2025 – A paper on weakly supervised semantic segmentation (ExCEL) was accepted [@CVPR'25](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Exploring_CLIPs_Dense_Knowledge_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.html).
 - Feb 2025 - Our work on multi-phase CT images analysis of renal massess was published [@Nature Communications](https://www.nature.com/articles/s41467-025-56784-z).
-- Feb 2025 - Our work on AI-assisted detection of newborn auricular deformities in collaboration with Fudan Eye and ENT Hospital was published [@eClinicalMedicine](https://doi.org/10.1016/j.eclinm.2025.103124).
-- Feb 2025 - Our work on eliminating the second CT scan of dual-tracer PET/CT in collaboration with Department of Nuclear Medicine, Zhongshan Hospital was published [@EJNMMI](https://link.springer.com/article/10.1007/s00259-025-07113-5).
+- Feb 2025 - Our work on AI-assisted detection of newborn auricular deformities was published [@eClinicalMedicine](https://doi.org/10.1016/j.eclinm.2025.103124).
+- Feb 2025 - Our work on eliminating the second CT scan of dual-tracer PET/CT was published [@EJNMMI](https://link.springer.com/article/10.1007/s00259-025-07113-5).
 - Feb 2025 - Our Eye-tracking dataset of endoscopist-AI teaming was published [@Scientific Data](https://www.nature.com/articles/s41597-025-04535-6).
 - Feb 2025 - The CMRxRecon2023 summary paper was published [@MedIA](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000337).
+
+<details markdown=1>
+<summary>More News 2025</summary>
 - Jan 2025 - Invited to be an Area Chair [@MICCAI'25](https://conferences.miccai.org/2025/en/default.asp).
 - Jan 2025 - The CMRxRecon2024 dataset paper was published [@Radiology: Artificial Intelligence](https://pubs.rsna.org/doi/full/10.1148/ryai.240443).
 - Jan 2025 - Our joint innovation center focused on AI for Future Medicine (AI4FM) launched at the [HKUST Shanghai Center](https://hkust.edu.hk/news/institutional-advancement/opening-hkust-shanghai-center-xuhui-district).
 
 <details markdown=1>
 <summary>More News 2024</summary>
-- Dec 2024 - One paper on weakly supervised semantic segmentation was accepted [@AAAI'25](https://arxiv.org/abs/2412.11076).
+- Dec 2024 - One paper on weakly supervised semantic segmentation was accepted [@AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33018).
 - Oct 2024 - One review paper on the fairness of medical image segmentation foundation models was published [@iRadiology](https://onlinelibrary.wiley.com/doi/full/10.1002/ird3.101).
-- Oct 2024 - One review paper on mutli-modal imaging and genomics was published [@Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253524005165).
 - Oct 2024 - One paper in collaboration with Nanjing University of Science and Technology was accepted [@MICCAI'24 UNSURE](https://link.springer.com/chapter/10.1007/978-3-031-73158-7_9).
 - Sept 2024 - One paper on few-shot computational pathology was accepted by [@NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bdcdf38389d7fcefc73c4c3720217155-Abstract-Conference.html).
 - Aug 2024 - One paper on renal tumor shape irregularity in collaboration with Department of Radiology, Zhongshan Hospital was published [@eClinicalMedicine](https://doi.org/10.1016/j.eclinm.2024.102775).

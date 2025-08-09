@@ -5,7 +5,7 @@ permalink: /publication/
 author_profile: true
 ---
 
-I have authored or co-authored over 80 research papers in the field of medicine and engineering.
+I have authored or co-authored over 100 research papers in the field of medicine and engineering.
 
 Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=mAhTSxcAAAAJ&view_op=list_works&sortby=pubdate) for the complete list.
 
@@ -70,7 +70,7 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
 	<tr>
 	    <td width="40%"><img  src="{{ base_path }}/images/papers/2025-NC-renal.png"></td>
 	    <td width="60%"><p markdown="1">**Artificial intelligence links CT images to pathologic features and survival outcomes of renal masses**<br>
-      Ying Xiong, Linpeng Yao, Jinglai Lin, Jiaxi Yao, Qi Bai, Yuan Huang, Xue Zhang, Risheng Huang, Run Wang, Kang Wang, Yu Qi, Pingyi Zhu, Haoran Wang, Li Liu, Jianjun Zhou, Jianming Guo, Feng Chen, Chenchen Dai & <u>Shuo Wang</u> <br>
+      Ying Xiong, Linpeng Yao, Jinglai Lin, Jiaxi Yao, Qi Bai, Yuan Huang, Xue Zhang, Risheng Huang, Run Wang, Kang Wang, Yu Qi, Pingyi Zhu, Haoran Wang, Li Liu, Jianjun Zhou, Jianming Guo, Feng Chen, Chenchen Dai, <u>Shuo Wang</u> <br>
       *Nature Communications, 2025* <br>
       [[paper](https://www.nature.com/articles/s41467-025-56784-z)] [[code](https://github.com/shuowang26/renal-mass-ai)] <br>
       <br>
@@ -79,7 +79,7 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
   <tr>
 	    <td width="40%"><img  src="{{ base_path }}/images/papers/2024-rad-renal.png"></td>
 	    <td width="60%"><p markdown="1">**Deep Learning Assessment of Small Renal Masses at Contrast-enhanced Multiphase CT**<br>
-      Chenchen Dai, Ying Xiong, Pingyi Zhu, Linpeng Yao, Jinglai Lin, Jiaxi Yao, Xue Zhang, Risheng Huang, Run Wang, Jun Hou, Kang Wang, Zhang Shi, Feng Chen, Jianming Guo, Mengsu Zeng, Jianjun Zhou & <u>Shuo Wang</u> <br>
+      Chenchen Dai, Ying Xiong, Pingyi Zhu, Linpeng Yao, Jinglai Lin, Jiaxi Yao, Xue Zhang, Risheng Huang, Run Wang, Jun Hou, Kang Wang, Zhang Shi, Feng Chen, Jianming Guo, Mengsu Zeng, Jianjun Zhou, <u>Shuo Wang</u> <br>
       *Radiology, 2024* <br>
       [[paper](https://pubs.rsna.org/doi/full/10.1148/radiol.232178)] [[code](https://github.com/shuowang26/kidney-cancer-ai)] <br>
       <br>
@@ -96,13 +96,22 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
   <tr>
       <td width="40%"><img  src="{{ base_path }}/images/papers/2023-EndoKED.png"></td>
       <td width="60%"><p markdown="1">**Knowledge Extraction and Distillation from Large-Scale Image-Text Colonoscopy Records Leveraging Large Language and Vision Models**<br>
-      <u>Shuo Wang</u>, Yan Zhu, Xiaoyuan Luo, Zhiwei Yang, Yizhe Zhang, Peiyao Fu, Manning Wang, Zhijian Song, Quanlin Li, Pinghong Zhou, Yike Guo <br>
-      *under peer-review*  <br>
+      <u>Shuo Wang</u>, Yan Zhu, Zhiwei Yang, Xiaoyuan Luo, Yizhe Zhang, Peiyao Fu, Haoran Wang, Manning Wang, Zhijian Song, Quanlin Li, Pinghong Zhou, Yike Guo <br>
+      *Nature Biomedical Engineering, in press*  <br>
       [[paper](https://arxiv.org/abs/2310.11173)] [[code](https://github.com/shuowang26/EndoKED)] <br>
       <br>
       </p></td>
   </tr>
 	<tr>
+	    <td width="40%"><img  src="{{ base_path }}/images/papers/2025-TMI-EndoDM.png"></td>
+	    <td width="60%"><p markdown="1">**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**<br>
+      Jia Yu, Yan Zhu, Peiyao Fu, Tianyi Chen, Junbo Huang, Quanlin Li, Pinghong Zhou, Zhihua Wang, Fei Wu, <u>Shuo Wang</u>, Xian Yang <br>
+      *IEEE Transactions on Medical Imaging, 2025* <br>
+      [[paper](https://ieeexplore.ieee.org/document/11080481)] [[code](https://github.com/Jia7878/compositional-prompt-diffusion-for-polyp-generation)] <br>
+      <br>
+      </p></td>
+	</tr>
+  <tr>
 	    <td width="40%"><img  src="{{ base_path }}/images/dataset-EndoGaze.png"></td>
 	    <td width="60%"><p markdown="1">**Eye-tracking dataset of endoscopist-AI teaming during colonoscopy: Retrospective and real-time acquisition**<br>
       Yan Zhu, Rui-Jie Yang, Pei-Yao Fu, Zhen Zhang, Yi-Zhe Zhang, Quan-Lin Li, <u>Shuo Wang</u>, Ping-Hong Zhou <br>
@@ -120,14 +129,6 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
       <br>
       </p></td>
 	</tr>
-</table>
-</details>
-
----
-
-<details open markdown=1>
-<summary><span style="font-weight: bold; font-size: 1.2em;">&nbsp;Ear </span></summary>
-<table>
 </table>
 </details>
 
