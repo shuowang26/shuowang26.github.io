@@ -97,8 +97,8 @@ Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en
       <td width="40%"><img  src="{{ base_path }}/images/papers/2023-EndoKED.png"></td>
       <td width="60%"><p markdown="1">**Knowledge Extraction and Distillation from Large-Scale Image-Text Colonoscopy Records Leveraging Large Language and Vision Models**<br>
       <u>Shuo Wang</u>, Yan Zhu, Zhiwei Yang, Xiaoyuan Luo, Yizhe Zhang, Peiyao Fu, Haoran Wang, Manning Wang, Zhijian Song, Quanlin Li, Pinghong Zhou, Yike Guo <br>
-      *Nature Biomedical Engineering, in press*  <br>
-      [[paper](https://arxiv.org/abs/2310.11173)] [[code](https://github.com/shuowang26/EndoKED)] <br>
+      *Nature Biomedical Engineering, 2025*  <br>
+      [[paper](https://www.nature.com/articles/s41551-025-01500-x)] [[code](https://github.com/shuowang26/EndoKED)] <br>
       <br>
       </p></td>
   </tr>

@@ -7,9 +7,9 @@ author_profile: true
 
 ## Undergraduate Courses
 
-* MED130454 (Chinese): Frontiers in Intelligent Medical Image Analysis: Theory and Practice (Summer Term)
+* MED10001 (English): Calculus I (Autumn Term, MBBS)
 
-* MATH120012 (English): Calculus I (Autumn Term, MBBS)
+* MED130454 (Chinese): Frontiers in Intelligent Medical Image Analysis: Theory and Practice (Summer Term)
 
 * AIS110005 (Chinese): Modern Technology and Nutritional Science (Spring Term)
 

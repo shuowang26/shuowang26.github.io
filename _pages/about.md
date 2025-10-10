@@ -8,22 +8,24 @@ redirect_from:
 ---
 
 # Shuo Wang （王烁）
-I am a Young Principal Investigator (Associate Professor) at the [Digital Medical Research Center](https://miccai.fudan.edu.cn/), School of Basic Medical Sciences, Fudan University. I am also affiliated with the [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London as an Honorary Senior Research Fellow.
+I am a Young Principal Investigator (Associate Professor) at the Digital Medical Research Center, School of Basic Medical Sciences, Fudan University. I am also affiliated with the Data Science Institute, Imperial College London as an Honorary Senior Research Fellow.
 
-Previously, I worked as a Research Associate at the [Data Science Institute](https://www.imperial.ac.uk/data-science/), Imperial College London (2019-2021) and the [Centre for Mathematical Sciences](https://www.cmih.maths.cam.ac.uk/), University of Cambridge (2018-2019). I received my PhD in Radiology from [University of Cambridge](https://www.cam.ac.uk/) (2018) and BSc in Theoretical and Applied Mechanics from [Fudan University](https://www.fudan.edu.cn/main.htm) (2014).
+Previously, I worked as a Research Associate at the Data Science Institute, Imperial College London (2019-2021) and the Centre for Mathematical Sciences, University of Cambridge (2018-2019). I received my PhD in Radiology from University of Cambridge (2018) and BSc in Theoretical and Applied Mechanics from Fudan University (2014).
 
 # Research Interests
-My research focuses on the intersection of healthcare big data and mechanistic modeling of biological systems. In particular, I am interested in developing efficient algorithms for real-world clinical applications and large-scale population digital twins. A core focus of my work is translating cutting-edge AI methodologies into practical tools that advance our understanding of human physiology and ultimately, improve patient care.
+My research focuses on the intersection of healthcare big data and cybernetic modeling of biological systems. In particular, I am interested in developing large-scale, multi-modal digital twins across scales. A core objective of my work is to translate cutting-edge AI methodologies into practical tools that advance our understanding of human health and ultimately optimise patient care.
 
 **Keywords**: AI for Multi-Modal Medicine (AIM³), Medical Image Analysis, Biomechanics
 
 # News
- - Aug 2025 – Our EndoKED work was accepted [@Nature Biomedical Engineering](https://arxiv.org/abs/2310.11173).
+  - Oct 2025 – Our work in collaboration with Xijing Hospital on first-in-human study of a novel treament of heart failure was published on [@ESC Heart Failure](https://academic.oup.com/ehf/article/12/10/e20250123/8203433).
+  - Sept 2025 – Our work on uncertainty-aware weakly supervised semantic segmentation was online [@IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/abstract/document/11175540).
+ - Sept 2025 – Our EndoKED work was published [@Nature Biomedical Engineering](https://www.nature.com/articles/s41551-025-01500-x).
  - July 2025 – Our work on composite prompt-based polyp image generation was published [@IEEE TMI](https://ieeexplore.ieee.org/document/11080481).
  - July 2025 – A paper in collaboration with Zhongshan Hospital on AI-based ECG was published [@EHJ](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf448/8203433).
  - July 2025 – A paper in collaboration with Zhejiang University on epicardial patches was published [@Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202501663).
  - May 2025 – A paper in collaboration with Imperial College London on generative cardiac modeling was published [@Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01035-5).
- - May 2025 – Three papers were accepted to [@MICCAI'25], including one early acceptance.
+ - May 2025 – Three papers [[1]](https://link.springer.com/chapter/10.1007/978-3-032-05141-7_11)[[2]](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_19)[[3]](https://link.springer.com/chapter/10.1007/978-3-032-05127-1_58) were accepted to [@MICCAI'25](https://conferences.miccai.org/2025/en/), including one early acceptance.
  - May 2025 – We are organizing a special issue on digital twin heart modeling [@医用生物力学](http://www.medbiomechanics.com/yyswlx/news/view/20250527163431001).
  - April 2025 – We released a multi-modal agent for gastrointestinal endoscopy [@上海消化内镜学术大会](https://mp.weixin.qq.com/s/tlvoKUGbJy0prManG3J-xw).
  - April 2025 – The 2nd Fudan Symposium on Cardiovascular Biomechanics and Medical Imaging (Cardiac Foundation Model Development Forum) was successfully held at the [HKUST Shanghai Center].
